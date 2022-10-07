@@ -1,0 +1,48 @@
+
+{
+	"projects": [
+		{
+			"id": 1,
+			"project_name": "Chat App",
+			"project_desc": "Created for a 1-on-1 chat with a specific user. Users can send messages in private and protected conversations.",
+			"owner": "Steve Njambi"
+		},
+		{
+			"id": 2,
+			"project_name": "Boom Music play app",
+			"project_desc": "This project  was created to enable users have a library of music, provide an inteface for accessing the library and play the music from the list stored.",
+			"owner": "Max"
+		},
+		{
+			"id": 3,
+			"project_name": "Moringa Admin App",
+			"project_desc": "This is a project that was ceated to assist the administration in improving communication with students",
+			"owner": "Mary"
+		},
+        {
+			"id": 4,
+			"project_name": "Project 4",
+			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
+			"owner": "Mary"
+		},
+        {
+			"id": 5,
+			"project_name": "Project 5",
+			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
+			"owner": "Mary"
+		},
+        {
+			"id": 6,
+			"project_name": "Project 6",
+			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
+			"owner": "Mary"
+		},
+        {
+			"id": 7,
+			"project_name": "Project 7",
+			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
+			"owner": "Mary"
+		}
+
+	]
+}
