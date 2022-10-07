@@ -1,15 +1,16 @@
 import './App.css';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
+import MainBody from './components/MainBody';
 // import Footer from './components/Footer'
-// import MainBody from './components/MainBody';
+
 
 function App() {
   return (
     <div>
       <Navbar />
       <Hero />
-      {/* <MainBody /> */}
+      <MainBody />
       {/* <Footer /> */}
     </div>
   );
