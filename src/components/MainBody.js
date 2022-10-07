@@ -1,16 +1,16 @@
-// import React from 'react';
-// import Projects from './Projects';
+import React from 'react';
+import Projects from './Projects';
 
 
 
 
-// function MainBody(props) {
+function MainBody(props) {
     
-//     return (
-//         <div className='container'>
-//             <Projects />
-//         </div>
-//     );
-// }
+    return (
+        <div className='container'>
+            <Projects />
+        </div>
+    );
+}
 
-// export default MainBody;
+export default MainBody;
