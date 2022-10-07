@@ -2,7 +2,7 @@ import './App.css';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import MainBody from './components/MainBody';
-// import Footer from './components/Footer'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -11,7 +11,7 @@ function App() {
       <Navbar />
       <Hero />
       <MainBody />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 }
