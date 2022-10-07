@@ -1,0 +1,48 @@
+
+{
+	"projects": [
+		{
+			"id": 1,
+			"project_name": "Chat App",
+			"project_desc": "bla bla black sheep, ahve any wool",
+			"owner": "Steve Njambi"
+		},
+		{
+			"id": 2,
+			"project_name": "Music play app",
+			"project_desc": "This project was created to enable users have a library of music.",
+			"owner": "Max"
+		},
+		{
+			"id": 3,
+			"project_name": "Moringa Admin App",
+			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
+			"owner": "Mary"
+		},
+        {
+			"id": 4,
+			"project_name": "Project 4",
+			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
+			"owner": "Mary"
+		},
+        {
+			"id": 5,
+			"project_name": "Project 5",
+			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
+			"owner": "Mary"
+		},
+        {
+			"id": 6,
+			"project_name": "Project 6",
+			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
+			"owner": "Mary"
+		},
+        {
+			"id": 7,
+			"project_name": "Project 7",
+			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
+			"owner": "Mary"
+		}
+
+	]
+}
