@@ -21,26 +21,26 @@
 		},
         {
 			"id": 4,
-			"project_name": "Project 4",
-			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
+			"project_name": "Boom Music play app",
+			"project_desc": "This is a sales app that records sales and keeps ledger, the sales agent is able to make a report of stock remaining and stock sold & use the app to request for stock.",
 			"owner": "Mary"
 		},
         {
 			"id": 5,
-			"project_name": "Project 5",
+			"project_name": "Mesozi sales app",
 			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
-			"owner": "Mary"
+			"owner": "Alex Brown"
 		},
         {
 			"id": 6,
-			"project_name": "Project 6",
-			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
-			"owner": "Mary"
+			"project_name": "Fitness ticker",
+			"project_desc": "This is a React app for keeping health and Exercise  record.",
+			"owner": "Stephen Njambi"
 		},
         {
 			"id": 7,
-			"project_name": "Project 7",
-			"project_desc": "This is a project ceated to assist the administration in improving communication with students",
+			"project_name": "Jaza Tank Initiative app",
+			"project_desc": "Jaza Tank Initiative app, is an app that helps taxi drivers and Boda Boda drivers, the app was funded by shell with an aim of attracting customers. Each driver is given a discount everytime they buy shell products.",
 			"owner": "Mary"
 		}
 
