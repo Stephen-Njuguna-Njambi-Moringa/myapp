@@ -4,7 +4,7 @@ import Projects from './Projects';
 
 
 
-function MainBody(props) {
+function MainBody() {
     
     return (
         <div className='container'>
