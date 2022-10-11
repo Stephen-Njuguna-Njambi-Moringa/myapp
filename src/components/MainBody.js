@@ -8,7 +8,7 @@ function MainBody() {
     
     return (
         <div className='container'>
-            <h1>About us</h1>
+            <h1 className='abtus m23'>Shared app ideas</h1>
             <Projects />
         </div>
     );
