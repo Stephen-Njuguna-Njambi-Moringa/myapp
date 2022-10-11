@@ -5,7 +5,6 @@ import React from 'react';
 function Projects() {
     const [projects, setProjects] = useState([]);
   const fetchProjects = async () => {
-    // let res = await fetch('http://localhost:3000/projects');
     let res = await fetch('https://app-njambi.herokuapp.com/projects');
 
     let data = await res.json();
